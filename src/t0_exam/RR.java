@@ -1,8 +1,10 @@
-//package t0_exam;
-//
+//package exam;
+
+
+
 //import java.util.Scanner;
 //
-//class Horse extends Thread {
+//public class exam {
 //	String horseName = "";
 //	int bat = 0, cnt = 0;
 //	
@@ -108,3 +110,10 @@
 //		sc.close();
 //	}
 //}
+//package t0_exam;
+//package t0_exam;
+
+
+
+
+
